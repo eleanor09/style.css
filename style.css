@@ -1,27 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Jessica's World</title>
-</head>
-<body>
-    <link rel="style sheet" type="text/css" href="style.css"/>
-    <article>
-        <h1> Resume</h1>
-    <p> I come from a small town called Cahokia Il. I have never done any coding<br>
-        before in my life and most of my jobs in my life have not involved technology.<br>
-        I currently work for American Express as an Account Exe, I have been in this position<br>
-        for almost two years. I became interested in computer coding after I helped<br>
-        my sister with her Master's in Nursing.</p>
-        </article>
-    <p> I recently took my first cruise this spring to multiple carribean islands.<br>
-        I came into contact with people from all walks of life and colors. I<br>
-        was able to relax take my mind off work and finances for a week. I treated<br>
-        my mom to a trip as well. She came with me on my trip all expenses paid.<br>
-        I took my mom with me just to show her my appreciation to her for being my mom.</p>
-    <footer>
-        <p> Posted By: Jessica Tucker</p>
-        <p> September 14, 2017</p>
-        <p><strong> Contact Information:</strong> 618-593-4273</p>
+p {
+    background-color: orange;
+    font-family: cursive;
+    margin-bottom: 100px;
+    margin-top: 100px;
 
-</body>
-<html>
+}
+* {
+    background-color: lightblue;
+    font-family:veranda;
+        
+}
+body {
+    background-color: lightcoral;
+    font-family: cursive;
+    margin-top:50px;
+    margin-bottom:50px;
+    border: 1px;
+}
